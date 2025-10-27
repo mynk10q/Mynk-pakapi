@@ -17,7 +17,7 @@ ALLOW_UPSTREAM = True
 MIN_INTERVAL = float(os.getenv("MIN_INTERVAL", "1.0"))
 LAST_CALL = {"ts": 0.0}
 
-COPYRIGHT_HANDLE = os.getenv("COPYRIGHT_HANDLE", "@never_delete")
+COPYRIGHT_HANDLE = os.getenv("COPYRIGHT_HANDLE", "@mynk_mynk_mynk")
 COPYRIGHT_NOTICE = "👉🏻 " + COPYRIGHT_HANDLE
 
 # -------------------------
